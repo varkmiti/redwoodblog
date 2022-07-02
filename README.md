@@ -1,5 +1,7 @@
 # README
 
+This is a project to work through the RedwoodJS course. At the time of writing, it is a simple blog app. I have experience with Rails, but I am new to React && the other technologies in this framework. Enjoy! (Made with Copilot)
+
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
 > **Prerequisites**
